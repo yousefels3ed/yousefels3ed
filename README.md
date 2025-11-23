@@ -5,12 +5,6 @@ Certified by Google in Data Analytics, with hands-on expertise in cleaning, visu
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)]([PUT-YOUR-LINK-HERE](https://www.linkedin.com/in/yousef-els3ed-920578238/])
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)]([[PUT-YOUR-LINK-HERE](https://www.kaggle.com/yousefels3ed)])
-
----
-
 ## 🧰 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
