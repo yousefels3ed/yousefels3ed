@@ -14,6 +14,8 @@ Certified by Google in Data Analytics, with hands-on expertise in cleaning, visu
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 
 ---
+ [LinkedIn](https://www.linkedin.com/in/yousef-els3ed-920578238/)  
+- [Kaggle](https://www.kaggle.com/yousefels3ed)  
 
 AI Specializations
 - Machine Learning  
