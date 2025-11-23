@@ -6,8 +6,8 @@ Certified by Google in Data Analytics, with hands-on expertise in cleaning, visu
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)]([PUT-YOUR-LINK-HERE](https://www.linkedin.com/in/yousef-els3ed-920578238/))
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)]([PUT-YOUR-LINK-HERE](https://www.kaggle.com/yousefels3ed))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)]([PUT-YOUR-LINK-HERE](https://www.linkedin.com/in/yousef-els3ed-920578238/])
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)]([[PUT-YOUR-LINK-HERE](https://www.kaggle.com/yousefels3ed)])
 
 ---
 
@@ -21,6 +21,15 @@ Certified by Google in Data Analytics, with hands-on expertise in cleaning, visu
 
 ---
 
+AI Specializations
+- Machine Learning  
+- Deep Learning  
+- Computer Vision  
+- NLP  
+- Data Analytics (Google Certified)
+ 
+ ---
+ 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
 
